@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/neusse/Documents/GitHub/daytripper'
+make: Leaving directory '/home/neusse/Documents/GitHub/daytripper'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
