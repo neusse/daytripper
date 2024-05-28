@@ -1,0 +1,19 @@
+ALL FASTENERS ARE SIZE M2
+listed from top to bottom
+
+regular battery (LIR2450):
+
+10mm flathead screw
+4mm standoff
+6mm standoff
+2.8mm screw
+
+big battery (LIR2477):
+10mm flathead screw
+4mm standoff
+9mm standoff
+2.8mm screw
+
+if using pilers, make sure don't touch the positive battery terminal!
+
+VL53L1X sensor, protective film peel opening face left! (towards power switch)

@@ -1,8 +1,8 @@
 # Daytripper Kit Assembly Guide
 
-[Main Page](/README.md) | [Buy Daytripper](https://www.tindie.com/products/dekuNukem/daytripper)
+[Buy on Tindie!](https://www.tindie.com/products/dekuNukem/daytripper-hide-my-windows-laser-tripwire/) | [Official Discord](https://discord.gg/VM4kbnf) | [Getting Started](quick_start_guide.md) | [Main Page](/README.md)
 
-------
+-----
 
 Thanks for purchasing Daytripper! Here is a short guide on how to put everything together.
 
@@ -62,7 +62,9 @@ Wash your hands, grab the circuit board by its edge, and install the `TX board` 
 
 ![Alt text](resources/photos/tx_in.jpg)
 
-Screw on the `4x M2 Standoff 4mm`. Moderately tighten it.
+Screw on the `4x M2 Standoff 4mm`. Moderately tighten.
+
+* If you're using pilers, make sure it doesn't bump into circuit board components while turning!
 
 ![Alt text](resources/photos/tx_m2.jpg)
 
@@ -90,9 +92,7 @@ Now your Daytripper is ready to use! Head over to the [Quick Start Guide](/quick
 
 ## Questions or Comments?
 
-Please feel free to [open an issue](https://github.com/dekuNukem/daytripper/issues). This is the preferred way since it helps other people too.
-
-You can also email me at `dekunukem gmail com` for inquires.
+Please feel free to [open an issue](https://github.com/dekuNukem/duckypad/issues), ask in the [official Daytripper discord](https://discord.gg/VM4kbnf), DM me on discord `dekuNukem#6998`, or email `dekuNukem`@`gmail`.`com` for inquires.
 
 ------
 
